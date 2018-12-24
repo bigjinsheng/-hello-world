@@ -1,2 +1,6 @@
 # -hello-world
-just another repository
+
+hi human!
+
+hubot here,i like node ,what do you know about me.
+
